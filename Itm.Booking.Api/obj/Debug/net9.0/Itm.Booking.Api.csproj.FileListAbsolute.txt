@@ -1,0 +1,113 @@
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\appsettings.json
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.staticwebassets.endpoints.json
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.exe
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.deps.json
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.runtimeconfig.json
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.pdb
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.Resilience.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.ObjectPool.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Resilience.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Telemetry.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Polly.Core.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Polly.Extensions.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Polly.RateLimiting.dll
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.csproj.AssemblyReference.cache
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.AssemblyInfoInputs.cache
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.AssemblyInfo.cs
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.csproj.CoreCompileInputs.cache
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\scopedcss\bundle\Itm.Booking.Api.styles.css
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets\msbuild.Itm.Booking.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets\msbuild.Itm.Booking.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.Itm.Booking.Api.props
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Itm.Booking.Api.props
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Itm.Booking.Api.props
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.pack.json
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Book.16834FD0.Up2Date
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.dll
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\refint\Itm.Booking.Api.dll
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.pdb
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.genruntimeconfig.cache
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\ref\Itm.Booking.Api.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ITM\Itm.Booking.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.staticwebassets.endpoints.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.exe
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.deps.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.runtimeconfig.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Itm.Booking.Api.pdb
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Resilience.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Polly.Extensions.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Polly.RateLimiting.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.csproj.AssemblyReference.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.AssemblyInfoInputs.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.AssemblyInfo.cs
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.csproj.CoreCompileInputs.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\scopedcss\bundle\Itm.Booking.Api.styles.css
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Book.16834FD0.Up2Date
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\refint\Itm.Booking.Api.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.pdb
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\Itm.Booking.Api.genruntimeconfig.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Booking.Api\obj\Debug\net9.0\ref\Itm.Booking.Api.dll

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xYSDIJ31+w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANAVL\\OneDrive\\Documents\\Programación Distribuida\\ITM.Distributed\\ITM\\Itm.Booking.Api\\Itm.Booking.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\10.3.0\\microsoft.extensions.ambientmetadata.application.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\10.3.0\\microsoft.extensions.compliance.abstractions.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.autoactivation\\10.3.0\\microsoft.extensions.dependencyinjection.autoactivation.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.diagnostics.exceptionsummarization\\10.3.0\\microsoft.extensions.diagnostics.exceptionsummarization.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.http.diagnostics\\10.3.0\\microsoft.extensions.http.diagnostics.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.http.resilience\\10.3.0\\microsoft.extensions.http.resilience.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.resilience\\10.3.0\\microsoft.extensions.resilience.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.telemetry\\10.3.0\\microsoft.extensions.telemetry.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\10.3.0\\microsoft.extensions.telemetry.abstractions.10.3.0.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\polly.core\\8.4.2\\polly.core.8.4.2.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\polly.extensions\\8.4.2\\polly.extensions.8.4.2.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\polly.ratelimiting\\8.4.2\\polly.ratelimiting.8.4.2.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.4\\swashbuckle.aspnetcore.10.1.4.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.4\\swashbuckle.aspnetcore.swagger.10.1.4.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.4\\swashbuckle.aspnetcore.swaggergen.10.1.4.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.4\\swashbuckle.aspnetcore.swaggerui.10.1.4.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\ANAVL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

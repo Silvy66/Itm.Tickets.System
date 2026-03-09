@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Itm.Event.Api.props" />
+</Project>

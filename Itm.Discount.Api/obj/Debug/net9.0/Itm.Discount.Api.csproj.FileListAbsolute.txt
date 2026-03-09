@@ -1,0 +1,72 @@
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\appsettings.json
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.staticwebassets.endpoints.json
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.exe
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.deps.json
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.runtimeconfig.json
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.dll
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.pdb
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.AssemblyInfoInputs.cache
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.AssemblyInfo.cs
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.csproj.CoreCompileInputs.cache
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\scopedcss\bundle\Itm.Discount.Api.styles.css
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets\msbuild.Itm.Discount.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets\msbuild.Itm.Discount.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.Itm.Discount.Api.props
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Itm.Discount.Api.props
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Itm.Discount.Api.props
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.pack.json
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.dll
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\refint\Itm.Discount.Api.dll
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.pdb
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.genruntimeconfig.cache
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\ref\Itm.Discount.Api.dll
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ITM\Itm.Discount.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.csproj.AssemblyReference.cache
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Disc.A2246A8A.Up2Date
+C:\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.staticwebassets.endpoints.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.exe
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.deps.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.runtimeconfig.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Itm.Discount.Api.pdb
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.csproj.AssemblyReference.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.AssemblyInfoInputs.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.AssemblyInfo.cs
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.csproj.CoreCompileInputs.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\scopedcss\bundle\Itm.Discount.Api.styles.css
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Disc.A2246A8A.Up2Date
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\refint\Itm.Discount.Api.dll
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.pdb
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\Itm.Discount.Api.genruntimeconfig.cache
+C:\Users\ANAVL\OneDrive\Documents\Programación Distribuida\ITM.Distributed\ITM\Itm.Discount.Api\obj\Debug\net9.0\ref\Itm.Discount.Api.dll
